@@ -1,0 +1,22 @@
+{
+  "name": "browser-version.sh",
+  "version": "1.0.0",
+  "description": "Detect latest browser versions with this handy BASH script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonOehlman/browser-version.sh.git"
+  },
+  "keywords": [
+    "browser-version"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/browser-version.sh/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/browser-version.sh#readme"
+}
